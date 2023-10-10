@@ -1,6 +1,6 @@
 # Algoritmos de Ordenação Bubble Sort e Busca Binária em C
 
-Este repositório contém implementações de dois algoritmos fundamentais em ciência da computação: Bubble Sort e busca binária, em linguagem C. Abaixo, apresentamos uma breve descrição de cada algoritmo e como eles são implementados.
+Este repositório contém implementações de dois algoritmos fundamentais em ciência da computação: Bubble Sort e busca binária, em linguagem C. Abaixo, uma breve descrição de cada algoritmo e como eles funcionam.
 
 ## Bubble Sort
 O Bubble Sort é um algoritmo de ordenação simples que compara repetidamente pares de elementos adjacentes em um array e os troca se estiverem fora de ordem. O processo é repetido até que nenhum par de elementos precise ser trocado.
